@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋 Nice to see you.
+Welcome to my page! 
+I'm Shurui Zhang, an undergraduate student in Nankai University from China. 
+
+### Things I code with
+
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 
 <!--
 **ZhangShuui/ZhangShuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
