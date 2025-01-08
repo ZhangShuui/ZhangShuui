@@ -7,7 +7,6 @@ I'm Shurui Zhang, an undergraduate student in Nankai University from China.
 
 
 - 🔭 I’m currently working on LLMs and Agents🤖. 
-- 👯 I’m doing an internship in Bauhinia-AI💮.
 - 🌃 Little rookie. Stay foolish.
 
 <!--
