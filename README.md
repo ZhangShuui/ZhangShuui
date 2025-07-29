@@ -1,14 +1,14 @@
 ## Hi there 👋 Nice to see you.
 Welcome to my page! 
-I'm Shurui Zhang, an graduate student from NKU.
+I'm Shurui Zhang, an graduate student from NKU & HKUST MSc-IT.
 
-Now, I'm a master student in HKUST IT.
+Now, I'm a PhD student in HKUST.
 
 
 ### Things I code with
 
 
-- 🔭 I’m currently working on LLMs and Agents🤖. 
+- 🔭 I’m currently working on LLMs Agents🤖 and LLM Persenality Alignment. 
 - 🌃 Little rookie. Stay foolish.
 
 <!--
