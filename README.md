@@ -65,11 +65,7 @@ shurui@hkust:~$ neofetch
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhangShuui/ZhangShuui/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhangShuui/ZhangShuui/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZhangShuui/ZhangShuui/output/github-snake.svg" />
-</picture>
+![github-snake](https://raw.githubusercontent.com/ZhangShuui/ZhangShuui/output/github-snake-dark.svg)
 
 </div>
 
