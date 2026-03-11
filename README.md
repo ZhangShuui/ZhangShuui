@@ -5,9 +5,9 @@
 
 </div>
 
-<table align="center"><tr><td>
+<div align="center">
 
-```properties
+```
  OS       ➜  PhD Student @ HKUST
  Origin   ➜  NKU → HKUST MSc-IT → HKUST PhD
  Focus    ➜  LLM Agents & Personality Alignment
@@ -16,7 +16,7 @@
  Status   ➜  Building the future with AI
 ```
 
-</td></tr></table>
+</div>
 
 <div align="center">
 
